@@ -4,6 +4,18 @@ Submitted by: Sunil Prajapati (st124073)
 
 ### Description
 
+Text Generation using Instruction Tuning with Alpacac Evaluation. 
+
+Training Data: 
+
+Valiadation Data:
+
+The model was trained for one epoch only due to limited compute power. The results are:
+
+| Training Loss | Validation Loss |
+|-|-|
+|2.277800|2.177402|
+
 ### Repo Structure
 <pre>
 root
