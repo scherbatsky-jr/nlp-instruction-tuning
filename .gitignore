@@ -1,0 +1,7 @@
+alpaca_data.json
+tmp_trainer
+mlruns
+app/lib/__pycache__
+app/model
+app/static/.webassets-cache
+app/static/gen
