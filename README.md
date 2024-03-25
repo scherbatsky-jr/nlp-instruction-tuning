@@ -6,9 +6,9 @@ Submitted by: Sunil Prajapati (st124073)
 
 Text Generation using Instruction Tuning with Alpacac Evaluation. 
 
-Training Data: 
+Training Data: https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json
 
-Valiadation Data:
+Valiadation Data: https://huggingface.co/datasets/tatsu-lab/alpaca_eval
 
 The model was trained for one epoch only due to limited compute power. The results are:
 
@@ -19,7 +19,7 @@ The model was trained for one epoch only due to limited compute power. The resul
 ### Repo Structure
 <pre>
 root
-|--<a href="https://github.com/scherbatsky-jr/nlp-instruction-tuning/blob/main/A8.ipynb">A7.ipyng</a>
+|--<a href="https://github.com/scherbatsky-jr/nlp-instruction-tuning/blob/main/A8.ipynb">A8.ipynb</a>
 |--<a href="https://github.com/scherbatsky-jr/nlp-instruction-tuning/blob/main/app">app</a>
     |--<a href="https://github.com/scherbatsky-jr/nlp-instruction-tuning/blob/main/app/lib">lib</a>
     |--<a href="https://github.com/scherbatsky-jr/nlp-instruction-tuning/blob/main/app/static">static</a>
